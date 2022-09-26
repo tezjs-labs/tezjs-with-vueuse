@@ -1,4 +1,4 @@
-# Tezjs with Vue Use
+# Tezjs with VueUse
 
 - **VueUse** is a collection of utility functions based on Composition API.
 
